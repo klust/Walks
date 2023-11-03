@@ -1,6 +1,6 @@
 # Walks Driekantweekend 2023
 
-Short URL: [tinyurl.com/Driekantweekend2023-walks](https://tinyurl.com/Driekantweekend2023-walks).
+Short URL: [tinyurl.com/Driekant2023-walks](https://tinyurl.com/Driekant2023-walks).
 
 ## Own prepared walks
 
