@@ -1,0 +1,69 @@
+site_name: "Some walks"
+#site_url: https://klust.github.io/SupercomputersForStarters
+#site_dir: "site/SupercomputersForStarters"
+use_directory_urls: false
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    #- navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+  palette:
+    - primary: black
+
+nav:
+  - Home: index.md
+  - Driekantweekend 2023: BE/Driekantweekend2023/Driekantweekend2023.md
+
+plugins:
+  # show revision date at bottom of each page
+  #- git-revision-date-localized
+  # necessary for search to work
+  - search
+
+markdown_extensions:
+  # Attributes (e.g., for lazy loading)
+  - attr_list
+  # Markdown in HTML
+  - md_in_html
+  # notes, warnings, hints, ...
+  - admonition
+  # code blocks with syntax highlighting, graphs
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # Emoji and icons
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # clickable details
+  - pymdownx.details
+  # tabbed contents
+  - pymdownx.tabbed
+  - toc:
+      permalink: true
+      toc_depth: 3
+  # Mathematics
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  
+# extra:
+  # add links in bottom right
+  # social:
+    #- type: github
+    #  icon: octicons/logo-github
+    #  link: https://github.com/klust
+    # - icon: fontawesome/brands/youtube
+    #   link: https://www.youtube.com/channel/UC3szWMS7glcfWsEZTZXQ1oQ
