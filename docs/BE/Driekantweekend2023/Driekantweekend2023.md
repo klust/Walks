@@ -4,7 +4,7 @@ Short URL: [tinyurl.com/Driekant2023-walks](https://tinyurl.com/Driekant2023-wal
 
 ## Own prepared walks
 
-### Along the Warche and Cascade de Bayehon
+### Along the Warche and Cascade de Bayehon (from Ovifat or Barrage de Robertville)
 
 #### 1. Barrage de Robertville - Nez de Napoléon - Warche - Reinhardstein - Barrage 5.3km
 
@@ -110,6 +110,58 @@ And the dryer version with a shorter stretch along the G'Hâstêr:
 
 -   [GPX file reverse (counterclockwise)](GPX/5a%20bis%20Ovifat%20-%20Highlights%20(clockwise)%2012.8km.gpx)
 
+
+### From Bruyêres - Terre D'Ardenne Lodge de Bruyères
+
+#### 6 Bruyères - Nez de Napoléon - Warche - Reinhardstein - Barrage - Bruyères 10.2km
+
+![Map of the walk](IMG/6%20Bruyères%20-%20Nez%20de%20Napoléon%20-%20Warche%20-%20Reinhardstein%20-%20Barrage%20-%20Bruyères%2010.2km.png)
+
+This walk starts at the gite in Bruyères then heads to Nez de Napoléon following farmer
+and forest roads before becomming a narrow trail for the last part to the viewpoint
+Nez de Napoléon. From there the path descends to the Warche. The return trip
+follows paths on the right bank of the Warche, then climbs to the Reinhardstein 
+castle, and continues from there to the Barrage de Robertville. From there we walk 
+along the lake and then follow a small river back to Bruyères.
+
+This walk can be done either clockwise (as described) or counterclockwise.
+
+-   [GPX file (clockwise)](GPX/6a%20Bruyères%20-%20Nez%20de%20Napoléon%20-%20Warche%20-%20Reinhardstein%20-%20Barrage%20-%20Bruyères%2010.2km.gpx)
+
+-   [GPX file reverse (counterclockwise)](GPX/6b%20Bruyères%20-%20Barrage%20-%20Reinhardstein%20-%20Warche%20-%20Nez%20de%20Napoléon%20-%20Bruyères%2010.2km.gpx)
+
+
+#### 7 Bruyères - Barrage - Reinhardstein - Cascade de Reinhardstein - Nez de Naplléon - Bruyères 9.2km
+
+![Map of the walk](IMG/7%20Bruyères%20-%20Barrage%20-%20Reinhardstein%20-%20Cascade%20de%20Reinhardstein%20-%20Nez%20de%20Naplléon%20-%20Bruyères%209.2km.png)
+
+This walk is a variation of the previous one. It is however advised to do it in counterclockwise direction,
+the opposite direction of the description of the previous walk. From the castle we descend to the Warche
+but rather than following the river downstream to the confluence with the Bayehon, we turn upstream
+again and cross the river to climb to some nice viewpoints on the Cascade de Reinhardstein, said to be
+the highest waterfall in Belgium. From there we then climb further to the Nez de Napoléon viewpoint
+and return to Bruyères.
+
+In clockwise direction, there is a rather steep and slippery descent towards the Warche. That part is much
+easier uphill than downhill.
+
+-   [GPX file (counterclockwise)](GPX/7a%20Bruyères%20-%20Barrage%20-%20Reinhardstein%20-%20Cascade%20de%20Reinhardstein%20-%20Nez%20de%20Naplléon%20-%20Bruyères%209.2km.gpx)
+
+-   [GPX file reverse (clockwise)](GPX/7b%20Bruyères%20-%20Nez%20de%20Napoléon%20-%20Cascade%20de%20Reinhardstein%20-%20Reinhardstein%20-%20%20-%20Barrage%20-%20Reinhardstein%20-%20Cascade%20de%20Reinhardstein%20-%20Nez%20de%20Naplléon%20-%20Bruyères%209.2km.gpx)
+
+
+#### 8 Bruyères Highlights 19km
+
+![Map of the walk](IMG/8%20Bruyères%20Highlights%20(counterclockwise)%2019km.png)
+
+This walk is way too long for a half day walk during the weekend. It combines all interesting places of this 
+page though. It is again advised to do the walk in counterclockwise direction.
+
+-   [GPX file (counterclockwise)](GPX/8a%20Bruyères%20Highlights%20(counterclockwise)%2019km.gpx)
+
+-   [GPX file reverse (clockwise)](GPX/8b%20Bruyères%20Highlights%20(clockwise)%2019km.gpx)
+
+
 ## Suggestions on WikiLoc
 
 -   [TOPPER: Wandelen Waalse Ardennen Le Moulin de Bayehon W 6,7 Km Reinhardstein-Longfaye](https://www.wikiloc.com/hiking-trails/topper-wandelen-waalse-ardennen-le-moulin-de-bayehon-w-6-7-km-reinhardstein-longfaye-32679313):
@@ -138,3 +190,6 @@ And the dryer version with a shorter stretch along the G'Hâstêr:
 -   [Robertville : du Lac au château de Reinhardstein par le point de vue 'Nez de Napoléon'](https://www.wikiloc.com/hiking-trails/robertville-du-lac-au-chateau-de-reinhardstein-par-le-point-de-vue-nez-de-napoleon-53152719):
     Lusje van aan de studam. Heen op de linkeroever van de Warche tot aan de samenvloeiing met de Bayehon,
     terug op de rechteroever. Min of meer een sublus van de vorige wandeling. 5.87km.
+
+
+
